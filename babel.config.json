@@ -4,7 +4,7 @@
       "@babel/env",
       {
         "corejs": 3.15,
-        "targets": "> 0.25%, not dead",
+        "targets": "> 0.25%, not dead, not ie 11",
         "useBuiltIns": "usage"
       }
     ]

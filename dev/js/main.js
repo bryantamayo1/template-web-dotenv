@@ -5,4 +5,5 @@ init();
 
 function init(){
     console.log("hola!!");
+    console.log("test123");
 }
