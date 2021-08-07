@@ -1,1 +1,8 @@
-node_modules
+# Global variables
+.env
+
+# Dependencies
+node_modules/
+
+# Ignore Mac system files 
+.DS_store
