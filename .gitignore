@@ -1,6 +1,9 @@
 # Global variables
 .env
 
+# Production
+dist/
+
 # Dependencies
 node_modules/
 
