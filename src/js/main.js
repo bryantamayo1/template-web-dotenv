@@ -5,5 +5,5 @@ init();
 
 function init(){
     console.log("hola!!");
-    console.log("test123");
+    console.log(process.env.S3_API || "default");
 }
