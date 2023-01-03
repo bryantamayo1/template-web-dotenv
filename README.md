@@ -43,6 +43,7 @@
     ├── .env.production.local               # production global variables
     ├── .gitignore                          # ignore files
     ├── babel.config.json                   # setup of library babel
+    ├── LICENSE                             # License MIT
     ├── manifest.json                       # info about the web page
     ├── package.json.json                   # file setup of profect
     ├── postcss.config.js                   # setup of library postcss
