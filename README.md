@@ -21,7 +21,7 @@
     npm run build
 ```
 4. Optionals
-    - 4.1. Create files: *.env.development.local* and *.env.production.local*
+    - 4.1. Create files: *.env.development.local* and *.env.production.local* to global variables
 
 ## Structure of project
 
