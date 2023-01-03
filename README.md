@@ -1,4 +1,4 @@
-# Webpack-babel-configuration-3
+# Webpack-babel-configuration-1
 >Final version template of webpack to build a web page.
 
 ## Table of contents
