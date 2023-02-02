@@ -36,6 +36,7 @@ Template to create web page with Webpack's environment and otenv-webpack library
     │   └──  webpack.prod.js                # setup only for prod
     ├── docs                                # screenshots of updatings
     ├── node_modules                        # libraries after of installing with npm install
+    ├── files-to-build                      # files to copy in build folder
     ├── src                                 # code for development
     │   ├──  js                             # only files javascript
     │   │    └── main.js                    # javascript file root
