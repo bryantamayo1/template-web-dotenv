@@ -9,7 +9,7 @@
 5. [Others](#others)
 
 ## About
-Template to create web page with Webpack's environment and otenv-webpack library to global variables.
+Template to create web page with Webpack's environment and dotenv-webpack library to global variables.
 
 ## Installation
 1. Install libraries
