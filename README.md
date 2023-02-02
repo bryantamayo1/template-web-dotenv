@@ -1,5 +1,5 @@
-# Webpack-babel-configuration-1
->Final version template of webpack to build a web page.
+# template-web-dotenv
+>Final version template of webpack to build a web page
 
 ## Table of contents
 1. [Installation](#installation)
@@ -53,7 +53,7 @@
 ## Update
 Each six months it tries to update all project with npm-check-updates library.
 ## Others
-- Webpack [browserlist](https://github.com/browserslist/browserslist#browsers-data-updating): 
+- Info about [browserlist](https://github.com/browserslist/browserslist#browsers-data-updating): 
 
 https://github.com/browserslist/browserslist#browsers-data-updating
 - Global variables manages with dotenv-webpack

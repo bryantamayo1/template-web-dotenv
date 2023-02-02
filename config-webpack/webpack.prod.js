@@ -58,7 +58,7 @@ const prod = {
         }),
         new CopyPlugin ({
             patterns: [
-                { from: 'manifest.json', to: './' }
+                { from: './files-to-build', to: './' }
             ]
         }),
         new Dotenv({
