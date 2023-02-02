@@ -56,4 +56,4 @@ Each six months it tries to update all project with npm-check-updates library.
 - Webpack [browserlist](https://github.com/browserslist/browserslist#browsers-data-updating): 
 
 https://github.com/browserslist/browserslist#browsers-data-updating
-- Global variables with dotenv-webpack
+- Global variables manages with dotenv-webpack
