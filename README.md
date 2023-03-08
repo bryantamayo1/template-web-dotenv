@@ -31,13 +31,14 @@ Template to create web page with Webpack's environment and dotenv-webpack librar
 
     ├── build                               # code for production
     ├── config-webpack                      # setup of webpack
-    │   ├──  webpack.common.js              # common setup for dev and prod
     │   ├──  webpack.dev.js                 # setup only for dev
     │   └──  webpack.prod.js                # setup only for prod
     ├── docs                                # screenshots of updatings
     ├── node_modules                        # libraries after of installing with npm install
-    ├── files-to-build                      # files to copy in build folder
+    ├── files-to-build                      # files to copy in build folder, e.g: manifest.json
     ├── src                                 # code for development
+    │   ├──  img                            # folder to images
+    │   │    └── favicon                    # folder to favicon’s
     │   ├──  js                             # only files javascript
     │   │    └── main.js                    # javascript file root
     │   ├──  styles                         # only files css
