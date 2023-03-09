@@ -51,7 +51,7 @@ Template to create web page with Webpack's environment and dotenv-webpack librar
     ├── babel.config.json                   # setup of library babel
     ├── LICENSE                             # License MIT
     ├── manifest.json                       # info about the web page
-    ├── package.json.json                   # file setup of profect
+    ├── package.json                        # file setup of profect
     ├── postcss.config.js                   # setup of library postcss
     └── README.md                           # info of project
 
