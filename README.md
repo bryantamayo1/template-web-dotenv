@@ -42,7 +42,7 @@ Template to create web page with Webpack's environment and dotenv-webpack librar
     │   ├──  js                             # only files javascript
     │   │    └── main.js                    # javascript file root
     │   ├──  styles                         # only files css
-    │   │    └── main.css                   # css
+    │   │    ├── main.css                   # css
     │   │    └── normalize.css              # css to normalize the styles of web page
     │   └──  index.html                     # html file root
     ├── .env.development.local              # development global variables
